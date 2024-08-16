@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="caption1"><![CDATA[Browse & Order All Products]]></string>
+    <string name="caption12">at Any Time</string>
+    <string name="caption3">Committed Delivery on Time</string>
+    <string name="caption4"><![CDATA[Fastest & safest Delivery]]></string>
+</resources>

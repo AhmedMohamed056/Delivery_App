@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".FragmentB">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="140dp"
+        android:src="@drawable/letter_uppercase_circle_d_svgrepo_com"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/buuton_color"
+        android:text="elivery"
+        android:textSize="60sp"
+        android:id="@+id/tv"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"/>
+
+
+
+</FrameLayout>
